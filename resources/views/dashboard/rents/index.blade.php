@@ -35,7 +35,7 @@
           <th scope="row">Tanggal Pengembalian</th>
           <th scope="row">Nama Kegiatan</th>
           <th scope="row">Waktu Diajukan</th>
-          <th scope="row">Waktu Dikabulkan</th>
+          <th scope="row">Waktu Dikembalikan</th>
           <th scope="row">Status Peminjaman</th>
           @if (auth()->user()->role_id <= 2)
             <th scope="row">Action</th>
