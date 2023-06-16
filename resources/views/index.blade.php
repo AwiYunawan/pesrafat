@@ -14,7 +14,7 @@
     <!-- Start Daftar Ruangan -->
     <div class="daftar-ruangan my-5 container">
         <h3 class="title-daftar-ruangan text-center">
-            Daftar Ruangan
+            Daftar Alat Ruangan
         </h3>
         <div class="list-ruangan d-flex flex-wrap justify-content-center">
             <div class="card m-3" style="width: 18rem;">
