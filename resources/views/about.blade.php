@@ -19,19 +19,13 @@
           <div class="section section-1 mx-3" style="width: 30vw;">
               <h1 class="title-section text-center">LATAR BELAKANG</h1>
               <div class="section-description">
-                Salah satu sarana dan prasarana di lingkungan kampus adalah ruangan kelas. 
-                Akan tetapi, terkadang ruangan kelas yang tersedia belum dapat digunakan secara efektif dan umumnya hanya digunakan untuk keperluan jadwal kuliah. 
-                Untuk mengefektifkan penjadwalan ruangan dan bisa digunakan untuk berbagai kegiatan, 
-                maka dibuatlah aplikasi web berupa peminjaman ruangan di lingkungan kampus.
+                Salah satu sarana dan prasarana di lingkungan kampus adalah alat dan ruangan. Akan tetapi, terkadang alat dan ruangan kampus yang tersedia belum dapat digunakan secara efektif dan umumnya hanya digunakan untuk keperluan jadwal kuliah. Untuk mengefektifkan penjadwalan alat dan ruangan bisa digunakan untuk berbagai kegiatan, maka dibuatlah aplikasi web berupa peminjaman ruangan di lingkungan kampus.
               </div>
           </div>
           <div class="section mx-3" style="width: 40vw;">
               <h1 class="title-section text-center">TUJUAN</h1>
               <div class="section-description">
-                Aplikasi sistem peminjaman ruangan ini bertujuan untuk mengetahui ruangan apa saja yang sedang dan akan digunakan pada jadwal yang disediakan pada hari tersebut. 
-                Selain itu, aplikasi ini juga membantu para mahasiswa baru ataupun tamu dari luar kampus yang kurang bahkan tidak mengetahui letak dari suatu ruangan dalam gedung. 
-                Informasi seperti penanggung jawab peminjam ruangan, ruangan yang dipakai, tujuan pemakaian ruangan, jadwal asli pemakaian ruangan, dan lama waktu ruangan dipinjam juga dapat dilihat melalui aplikasi. 
-                Tentu hal ini mempermudah para pengakses gedung agar tidak perlu mengecek ruangan satu persatu.
+                Aplikasi sistem peminjaman alat dan ruangan ini bertujuan untuk mengetahui alat dan ruangan apa saja yang sedang dan akan digunakan pada jadwal yang disediakan pada hari tersebut. Selain itu, aplikasi ini juga membantu para mahasiswa baru ataupun tamu dari luar kampus yang kurang bahkan tidak mengetahui fasilitas sarana dan prasarana apa saja yang tersedia di kampus. Informasi seperti penanggung jawab peminjam sarpras, sarpras yang dipakai, tujuan pemakaian sarpras, jadwal asli pemakaian sarpras, dan lama waktu sarpras dipinjam juga dapat dilihat melalui aplikasi. Tentu hal ini mempermudah para pengakses gedung agar tidak perlu mengecek alat dan ruangan satu persatu.
               </div>
           </div>
       </div>
